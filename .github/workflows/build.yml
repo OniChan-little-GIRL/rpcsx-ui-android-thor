@@ -2,7 +2,7 @@
 # - Move librpcsx compilation away
 # - Do not use legacy CMake scripts (figure out how)
 
-name: Build Thor APK
+name: Build Thors APK
 
 on:
   workflow_dispatch:
